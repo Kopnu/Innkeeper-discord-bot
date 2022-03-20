@@ -1,7 +1,7 @@
 spring:
   jda:
     auto-create: true
-    token: NDIzMTk5NzY3MDI4MzAxODI0.Wqglfw.QHwghaR4_zjgY5tRzWipArBpR2Q
+    token: {token}
     activity:
       type: listening
       activity: Курсы о self-development
